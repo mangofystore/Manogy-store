@@ -9,7 +9,8 @@
  */
 {
   "current": {
-    "logo_width": 130,
+    "logo": "shopify://shop_images/MANGOFY.png",
+    "logo_width": 180,
     "favicon": "shopify://shop_images/Untitled_design__2_-removebg-preview.png",
     "type_header_font": "proza_libre_n4",
     "heading_scale": 100,
@@ -196,6 +197,17 @@
           "button_label": "#f9e547",
           "secondary_button_label": "#3d081b",
           "shadow": "#3d081b"
+        }
+      },
+      "scheme-007e9730-6f6f-491f-8049-1faf83f83fcd": {
+        "settings": {
+          "background": "#ffffff",
+          "background_gradient": "",
+          "text": "#333333",
+          "button": "#f58220",
+          "button_label": "#f58220",
+          "secondary_button_label": "#5d4037",
+          "shadow": "#333333"
         }
       }
     }
